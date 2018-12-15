@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FurnitureInterior", "Assembly-CSharp.csproj", "{FF515CE5-8FDD-4DC8-AD36-70B58D0288AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FurnitureInterior", "Assembly-CSharp-Editor.csproj", "{9D7200C2-4357-9079-4178-8D88515231D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF515CE5-8FDD-4DC8-AD36-70B58D0288AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF515CE5-8FDD-4DC8-AD36-70B58D0288AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF515CE5-8FDD-4DC8-AD36-70B58D0288AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF515CE5-8FDD-4DC8-AD36-70B58D0288AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D7200C2-4357-9079-4178-8D88515231D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D7200C2-4357-9079-4178-8D88515231D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D7200C2-4357-9079-4178-8D88515231D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D7200C2-4357-9079-4178-8D88515231D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
